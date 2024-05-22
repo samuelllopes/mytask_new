@@ -8,6 +8,7 @@
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Apresentação Final](#Apresentação-Final)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
+* [Como rodar o codigo](#Como-rodar-o-codigo)
 
 ## Sobre o Projeto
 
@@ -35,7 +36,6 @@ Nosso grupo teve como ideia o desenvolvimento de um sistema que realiza o contro
 ## Tecnologias Usadas
 
 
-
 <img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="20px" /> HTML
 
 <img src="https://github.com/tidaniellino/mytask/assets/103187575/48af6ea1-e0dd-4ce0-b1fa-7d4aa249ec9b" width="20px" /> CSS
@@ -50,6 +50,7 @@ Nosso grupo teve como ideia o desenvolvimento de um sistema que realiza o contro
 
 <img src="https://github.com/tidaniellino/mytask/assets/103187575/1d65a8f0-ffd4-40ce-816d-40ce093eb10c" width="30px" /> VsCode
 
+## Como rodar o codigo
 
 ## Project setup
 ```
