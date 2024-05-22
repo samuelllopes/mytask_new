@@ -22,12 +22,6 @@ Nosso grupo teve como ideia o desenvolvimento de um sistema que realiza o contro
  - **Caio Henrique RA:62311233**
  - **Daniel Lino RA:62321387**
 
-## Codigos do Projeto
-
-* [Cadrastro.html](Cadrastro.html)
-* [index.html](index.html)
-* [tela-de-login.html](tela-de-login.html)
-
 ## Apresentação Final 
 
 [Uploading My Task - Usabilidade e Dev WebMob.pdf…]()
